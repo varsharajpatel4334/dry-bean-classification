@@ -22,7 +22,7 @@ For preprocessing, duplicate records were removed before model training. The dat
 
 ### c. GitHub Repository
 
-GitHub Repository: <Add GitHub repository URL after uploading the project>
+GitHub Repository: https://github.com/varsharajpatel4334/dry-bean-classification
 
 ### d. Models Used
 
@@ -52,7 +52,8 @@ Among the five models evaluated, **SVM produced the best overall classification 
 
 ### Live App
 
-Streamlit App: <Add deployed Streamlit application URL here>
+Streamlit App:
+https://dry-bean-classification-kpwwz9wkxytdrw3zgbm6o5.streamlit.app
 
 The Streamlit application allows the user to:
 - Upload the test dataset in CSV format.
