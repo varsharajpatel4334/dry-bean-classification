@@ -1,7 +1,8 @@
 streamlit
 scikit-learn
-numpy
-pandas
+numpy==1.26.4
+pandas==2.2.3
 matplotlib
 seaborn
 joblib
+pyarrow<26
